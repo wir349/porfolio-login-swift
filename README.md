@@ -5,4 +5,9 @@ Right now the architecture is the same as the objective-C version but I eventual
 
 A couple of the files I haven't ported over but that I'll do in due time.
 
-BTW, SWIFT IS AWESOME.
+<b>Functionality</b>
+
+In terms of functionality this app is REALLY simple. All it does is mimick a login functionality <b>W/O</b> a real api. No matter which email/password combination you put it'll allow you to login
+
+
+And Swift is AWESOME.
